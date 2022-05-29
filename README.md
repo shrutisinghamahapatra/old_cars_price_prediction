@@ -33,4 +33,4 @@ scikit-learn:
 after installation of the above libraries use the following command to run your flask webapp in the virtual environment (env)
 
 ```$ flask run``` 
-In anaconda prompt and you will get an https link that you should paste in your browser
+In anaconda prompt and you will get an https link that you should paste in your browser and in the local host you can access the webpage, then you should provide all the attributes that are asked and finally click the predict button and you will get a predicted probable price according to the Machine Learning Model
